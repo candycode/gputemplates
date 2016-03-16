@@ -5,7 +5,7 @@
 ///#define EVAL_TEXT to print the textual representation of expressions
 ///Skip to the 'TEST CODE' section for examples of definitions and evaluations of expressions
 
-// OUTPUT without EVAL_TEXT #defined
+//OUTPUT without EVAL_TEXT #defined
 //Expression templates 1
 //----------------------------------
 //-41.3
